@@ -7,7 +7,7 @@
 
 ***
 
-my location: Moscow city, phone number: +7-977-776-83-09, e-mail: box977776@gmail.com    
+my location: Moscow city, phone number: +7-977-776-83-09, [e-mail: box977776@gmail.com](mailto:box977776@gmail.com)
 
 **ENTRY-LEVEL COMPUTER PROGRAMMER**  
 1. **Student of RS School:** I am currently taking online course "IOS App Development". Training includes learning programming languages ​​such as Objective-C and Swift. This course provides experience in application development and provides an opportunity to participate in real projects;   
